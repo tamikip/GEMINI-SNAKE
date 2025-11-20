@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake",
+  "description": "A modern, responsive retro Snake game with touch controls and high-score tracking.",
+  "requestFramePermissions": []
+}
